@@ -82,3 +82,14 @@ Press Enter once your phone is connected and ready...
 and disconnect it when you see you phone as a listed device
 
 After the first setup you will have to only run ./wirelessDisplay.sh every time and your phone screen will pop up on you desktop
+
+
+
+
+
+If someone's curious, the wirelessDisplay.sh file does the following tasks:
+->Install adb
+->Connect the phone using wire
+->Install the file "scrcpy-linux-x86_64-v3.3.4.tar.gz"
+->make it executable
+->connect the phone based on ip address and display acccording to user's input
