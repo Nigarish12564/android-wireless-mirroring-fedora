@@ -81,3 +81,4 @@ when you run the script for the first ever time, you have to connect through a w
 Press Enter once your phone is connected and ready...
 and disconnect it when you see you phone as a listed device
 
+After the first setup you will have to only run ./wirelessDisplay.sh every time and your phone screen will pop up on you desktop
