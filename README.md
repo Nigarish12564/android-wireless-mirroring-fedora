@@ -64,3 +64,20 @@ Setting up Scrcpy on Fedora can sometimes be annoying because:
     wireless ADB setup can feel confusing for first-time users  
 
 This script automates the parts that can be automated and guides the user through the parts that require manual confirmation. 
+
+How to actually make this work:
+->Download the "wirelessDisplay.sh" file provided
+->go to terminal
+->run this command:
+chmod +x wirelessDisplay.sh
+->then run this:
+./wirelessDisplay.sh
+->then it will simply guide you
+
+
+Note:
+for the first time use, you will have to temporarily connect your phone using a wire with the desktop
+when you run the script for the first ever time, you have to connect through a wire when it says:
+Press Enter once your phone is connected and ready...
+and disconnect it when you see you phone as a listed device
+
